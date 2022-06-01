@@ -1,0 +1,7 @@
+﻿  BST.c
+D:\한양대학교\학과공부\2학년\1학기\자료구조론\Assignment\과제3\BinarySearchTree\BST.c(12,9): warning C4615: #pragma warning: 알 수 없는 사용자 경고 형식입니다.
+D:\한양대학교\학과공부\2학년\1학기\자료구조론\Assignment\과제3\BinarySearchTree\BST.c(17,3): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+D:\한양대학교\학과공부\2학년\1학기\자료구조론\Assignment\과제3\BinarySearchTree\BST.c(24,3): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+D:\한양대학교\학과공부\2학년\1학기\자료구조론\Assignment\과제3\BinarySearchTree\BST.c(62,15): warning C4047: '함수': 'TreeNode *'의 간접 참조 수준이 'TreeNode **'과(와) 다릅니다.
+D:\한양대학교\학과공부\2학년\1학기\자료구조론\Assignment\과제3\BinarySearchTree\BST.c(62,7): warning C4024: 'init': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  BinarySearchTree.vcxproj -> D:\한양대학교\학과공부\2학년\1학기\자료구조론\Assignment\과제3\BinarySearchTree\x64\Debug\BinarySearchTree.exe
